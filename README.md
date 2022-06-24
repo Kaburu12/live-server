@@ -1,2 +1,0 @@
-# live-server
-my server
