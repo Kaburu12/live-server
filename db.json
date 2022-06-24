@@ -1,5 +1,4 @@
-{
-	"laptops": [
+ [
 	  {
 		"id": 1,
 		"name": "Lenovo ThinkPad Yoga 260 Convertible",
@@ -89,4 +88,4 @@
 	  }
 	 
 	]
-  }
+  
